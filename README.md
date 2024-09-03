@@ -17,6 +17,11 @@ This repository, called **Evidence-based Medicine**, contains a collection of re
 - [Acknowledgement](#Acknowledgement)
 
 # Papers
+**The next generation of evidence-based medicine**\
+_Vivek Subbiah_\
+Nature Medicine, [[Paper](https://www.nature.com/articles/s41591-022-02160-z)]\
+16 January 2023
+
 **Principles of evidence based medicine**\
 _A K Akobeng_\
 Archives of Disease in Childhood, [[Paper](https://pubmed.ncbi.nlm.nih.gov/16040884/)]\
