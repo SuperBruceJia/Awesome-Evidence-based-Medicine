@@ -22,6 +22,11 @@ _Vivek Subbiah_\
 Nature Medicine, [[Paper](https://www.nature.com/articles/s41591-022-02160-z)]\
 16 January 2023
 
+**How to Practice Evidence-Based Medicine**\
+_Jennifer A. Swanson, DeLaine Schmitz, Kevin C. Chung_\
+Plastic and Reconstructive Surgery, [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4389891/)]\
+July 2010
+
 **Principles of evidence based medicine**\
 _A K Akobeng_\
 Archives of Disease in Childhood, [[Paper](https://pubmed.ncbi.nlm.nih.gov/16040884/)]\
