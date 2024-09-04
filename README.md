@@ -32,6 +32,11 @@ _A K Akobeng_\
 Archives of Disease in Childhood, [[Paper](https://pubmed.ncbi.nlm.nih.gov/16040884/)]\
 Aug 2005
 
+**Evidence based medicine: what it is and what it isn't**\
+_David L Sackett, William M C Rosenberg, J A Muir Gray, R Brian Haynes, W Scott Richardson_\
+BMJ, [[Paper](https://www.bmj.com/content/312/7023/71)]\
+13 January 1996
+
 # Acknowledgement
 This project is sponsored by the [MedPodGPT](https://medpodgpt.org/) group, Kolachalama Laboratory at Boston University.
 
