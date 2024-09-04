@@ -16,6 +16,12 @@ This repository, called **Evidence-based Medicine**, contains a collection of re
 - [Papers](#Papers)
 - [Acknowledgement](#Acknowledgement)
 
+# Presentations
+**Evidence Based-Medicine: A Case Study of Vaccines and Autism**\
+_Leah Liu, Johnny Kung, Alison Taylor_\
+Harvard Medical School, [[Presentation](https://sitn.hms.harvard.edu/wp-content/uploads/2010/09/Lecture_1.1.pdf)]\
+2010
+
 # Papers
 **The next generation of evidence-based medicine**\
 _Vivek Subbiah_\
