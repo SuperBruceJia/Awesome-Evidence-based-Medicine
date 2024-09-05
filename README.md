@@ -33,6 +33,11 @@ _Jennifer A. Swanson, DeLaine Schmitz, Kevin C. Chung_\
 Plastic and Reconstructive Surgery, [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4389891/)]\
 July 2010
 
+**Evidence Based Medicine – New Approaches and Challenges**\
+_Izet Masic, Milan Miokovic, Belma Muhamedagic_\
+Acta Informatica Medica, [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3789163/)]\
+2008
+
 **Principles of evidence based medicine**\
 _A K Akobeng_\
 Archives of Disease in Childhood, [[Paper](https://pubmed.ncbi.nlm.nih.gov/16040884/)]\
