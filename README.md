@@ -11,8 +11,6 @@ This repository, called **Evidence-based Medicine**, contains a collection of re
 
 ## Contents
 - [Presentations](#Presentations)
-- [Books](#Books)
-- [Benchmarks](#Benchmarks)
 - [Papers](#Papers)
 - [Acknowledgement](#Acknowledgement)
 
