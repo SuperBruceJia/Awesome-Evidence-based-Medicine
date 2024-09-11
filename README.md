@@ -31,6 +31,11 @@ _Ariel L. Zimerman_\
 American Medical Association Journal of Ethics, [[Paper](https://journalofethics.ama-assn.org/article/evidence-based-medicine-short-history-modern-medical-movement/2013-01)]\
 2013
 
+**The Origins of Evidence-Based Medicine: A Personal Perspective**\
+_David M. Eddy_\
+American Medical Association Journal of Ethics, [[Paper](https://journalofethics.ama-assn.org/article/origins-evidence-based-medicine-personal-perspective/2011-01)]\
+2011
+
 **How to Practice Evidence-Based Medicine**\
 _Jennifer A. Swanson, DeLaine Schmitz, Kevin C. Chung_\
 Plastic and Reconstructive Surgery, [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4389891/)]\
