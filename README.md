@@ -28,6 +28,11 @@ _Vivek Subbiah_\
 Nature Medicine, [[Paper](https://www.nature.com/articles/s41591-022-02160-z)]\
 16 January 2023
 
+**Evidence-Based Medicine: A Short History of a Modern Medical Movement**\
+_Ariel L. Zimerman_\
+American Medical Association Journal of Ethics, [[Paper](https://journalofethics.ama-assn.org/article/evidence-based-medicine-short-history-modern-medical-movement/2013-01)]\
+2013
+
 **How to Practice Evidence-Based Medicine**\
 _Jennifer A. Swanson, DeLaine Schmitz, Kevin C. Chung_\
 Plastic and Reconstructive Surgery, [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4389891/)]\
