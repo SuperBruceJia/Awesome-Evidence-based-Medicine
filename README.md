@@ -59,4 +59,4 @@ BMJ, [[Paper](https://www.bmj.com/content/312/7023/71)]\
 # Acknowledgement
 This project is sponsored by the [PodGPT](https://podgpt.org/) group, Kolachalama Laboratory at Boston University.
 
-<a href="https://podgpt.org/"> <img width="500" src="https://github.com/user-attachments/assets/4d0cc5f3-c049-4fdd-85c5-82debf6de5c2"></a>
+<a href="https://podgpt.org/"> <img width="500" src="https://github.com/user-attachments/assets/84e28a61-d69b-47d3-a8db-d3605f4562e0"></a>
