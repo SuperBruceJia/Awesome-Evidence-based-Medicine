@@ -57,6 +57,6 @@ BMJ, [[Paper](https://www.bmj.com/content/312/7023/71)]\
 13 January 1996
 
 # Acknowledgement
-This project is sponsored by the [MedPodGPT](https://medpodgpt.org/) group, Kolachalama Laboratory at Boston University.
+This project is sponsored by the [PodGPT](https://podgpt.org/) group, Kolachalama Laboratory at Boston University.
 
-<a href="https://medpodgpt.org/"> <img width="500" src="https://github.com/user-attachments/assets/234af688-d099-4c51-9122-09b9cff17ac4"></a>
+<a href="https://podgpt.org/"> <img width="500" src="https://github.com/user-attachments/assets/9ec6c086-0093-4be7-90a9-9cb3e054b776"></a>
